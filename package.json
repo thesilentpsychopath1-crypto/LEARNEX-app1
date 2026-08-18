@@ -1,0 +1,11 @@
+{
+  "name": "learnex-ai-official",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node -e \"console.log('Learnex AI build: static app ready')\"",
+    "start": "node server.js"
+  }
+}
